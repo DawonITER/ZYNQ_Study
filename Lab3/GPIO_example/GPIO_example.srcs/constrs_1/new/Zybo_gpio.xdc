@@ -1,0 +1,8 @@
+set_property IOSTANDARD LVCMOS33 [get_ports {LED_out_tri_io[3]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {LED_out_tri_io[2]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {LED_out_tri_io[1]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {LED_out_tri_io[0]}]
+set_property PACKAGE_PIN M14 [get_ports {LED_out_tri_io[0]}]
+set_property PACKAGE_PIN M15 [get_ports {LED_out_tri_io[1]}]
+set_property PACKAGE_PIN G14 [get_ports {LED_out_tri_io[2]}]
+set_property PACKAGE_PIN D18 [get_ports {LED_out_tri_io[3]}]
