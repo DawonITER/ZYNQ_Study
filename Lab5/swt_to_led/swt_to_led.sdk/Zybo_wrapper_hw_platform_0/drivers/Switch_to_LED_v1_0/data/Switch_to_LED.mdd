@@ -1,0 +1,10 @@
+
+
+OPTION psf_version = 2.1;
+
+BEGIN DRIVER Switch_to_LED
+	OPTION supported_peripherals = (Switch_to_LED);
+	OPTION copyfiles = all;
+	OPTION VERSION = 1.0;
+	OPTION NAME = Switch_to_LED;
+END DRIVER

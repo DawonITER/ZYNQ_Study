@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../bd/Zybo/ip/Zybo_rst_ps7_0_100M_0/sim/Zybo_rst_ps7_0_100M_0.vhd" \
+
+nosort

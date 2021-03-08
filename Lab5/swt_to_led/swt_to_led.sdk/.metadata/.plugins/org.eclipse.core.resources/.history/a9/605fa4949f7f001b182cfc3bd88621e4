@@ -1,0 +1,11 @@
+#include <stdio.h>
+#include <sleep.h>
+#include "xparameters.h"
+#include "Switch_to_LED.h"
+
+#define SWITCH_TO_LED_ADDR		XPAR_SWITCH_TO_LED_0_S00_AXI_BASEADDR
+
+int main()
+{
+	return 0;
+}
