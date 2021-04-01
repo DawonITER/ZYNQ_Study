@@ -158,13 +158,13 @@ int main(void)
 		XGpio_DiscreteWrite(&Gpio, LED_CHANNEL, LED);
 
 		/* 0.5초 딜레이 */
-		usleep(5000000);
+		usleep(500000);
 
 		/* LED를 모두 Off */
 		XGpio_DiscreteClear(&Gpio, LED_CHANNEL, LED);
 
 		/* 0.5초 딜레이 */
-		usleep(5000000);
+		usleep(500000);
 	}
 
 	xil_printf("Successfully ran Gpio Example\r\n");
