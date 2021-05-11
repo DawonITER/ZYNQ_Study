@@ -1,9 +1,0 @@
-#include <stdio.h>
-#include <sleep.h>
-#include "xparameters.h"
-#include "Switch_to_LED.h"
-
-int main()
-{
-	return 0;
-}
