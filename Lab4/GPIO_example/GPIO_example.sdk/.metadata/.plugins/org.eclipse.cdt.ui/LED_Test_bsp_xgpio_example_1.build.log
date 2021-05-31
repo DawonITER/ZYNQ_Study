@@ -1,0 +1,7 @@
+08:00:05 **** Clean-only build of configuration Debug for project LED_Test_bsp_xgpio_example_1 ****
+make clean 
+rm -rf  ./src/xgpio_example.o  ./src/xgpio_example.d  LED_Test_bsp_xgpio_example_1.elf.size  LED_Test_bsp_xgpio_example_1.elf
+' '
+
+08:00:05 Build Finished (took 169ms)
+

@@ -1,0 +1,12 @@
+17:10:37 INFO  : Registering command handlers for SDK TCF services
+17:10:38 INFO  : Launching XSCT server: xsct.bat -interactive D:\Lab1\GPIO_example\GPIO_example.sdk\temp_xsdb_launch_script.tcl
+17:10:40 INFO  : XSCT server has started successfully.
+17:10:40 INFO  : Successfully done setting XSCT server connection channel  
+17:10:40 INFO  : Processing command line option -hwspec D:/Lab1/GPIO_example/GPIO_example.sdk/zybo_wrapper.hdf.
+17:10:40 INFO  : Successfully done setting SDK workspace  
+17:11:59 INFO  : Example project LED_Test_bsp_xgpio_example_1 has been created successfully.
+07:30:49 INFO  : Registering command handlers for SDK TCF services
+07:30:50 INFO  : Launching XSCT server: xsct.bat -interactive D:\lecture_lab\GPIO_example\GPIO_example.sdk\temp_xsdb_launch_script.tcl
+07:30:54 INFO  : XSCT server has started successfully.
+07:30:54 INFO  : Successfully done setting XSCT server connection channel  
+07:30:57 INFO  : Successfully done setting SDK workspace  

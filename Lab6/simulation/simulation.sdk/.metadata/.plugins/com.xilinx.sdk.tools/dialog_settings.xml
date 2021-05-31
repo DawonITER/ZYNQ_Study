@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="C:\Users\shogo\OneDrive\Develop\simulation\simulation.sdk\FSBL\Debug\FSBL.elf" key="zybo_wrapper_hw_platform_0-fsblFile"/>
+	<item value="qspi_single" key="zybo_wrapper_hw_platform_0-flashType"/>
+	<item value="zybo_wrapper_hw_platform_0" key="programflash.hwplatform"/>
+	<item value="C:\Users\shogo\OneDrive\Develop\simulation\simulation.sdk\Helloworld\bootimage\BOOT.bin" key="zybo_wrapper_hw_platform_0-imgFile"/>
+	<item value="Local" key="zybo_wrapper_hw_platform_0-target"/>
+	<item value="Auto Detect" key="zybo_wrapper_hw_platform_0-device"/>
+	<item value="false" key="zybo_wrapper_hw_platform_0-verifyFlash"/>
+	<item value="false" key="zybo_wrapper_hw_platform_0-blankCheck"/>
+	<item value="" key="zybo_wrapper_hw_platform_0-offSet"/>
+</section>

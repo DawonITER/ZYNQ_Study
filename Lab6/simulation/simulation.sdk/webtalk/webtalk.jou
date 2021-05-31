@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2018.2.2 (64-bit)
+# SW Build 2348494 on Mon Oct  1 18:25:44 MDT 2018
+# 
+# Start of session at: Sun May 30 22:28:22 2021
+# Process ID: 1364
+# Current directory: C:/Users/shogo/OneDrive/Develop/simulation/simulation.sdk/webtalk
+# Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
+# Log file: C:/Users/shogo/OneDrive/Develop/simulation/simulation.sdk/webtalk/webtalk.log
+# Journal file: C:/Users/shogo/OneDrive/Develop/simulation/simulation.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl
